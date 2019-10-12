@@ -51,6 +51,8 @@ http://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
 https://stream.next-sys.it:8443/live/alice/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png" group-title="",Azzurra TV
 https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="La7 IT" tvg-name="La7 IT" tvg-logo="https://yt3.ggpht.com/-hYWT0MBszjE/AAAAAAAAAAI/AAAAAAAAAAA/Xbg1WDitHBI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="",La7
+http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png" group-title="",CafèTV24
 http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canale 10
@@ -123,8 +125,6 @@ http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8?fluxustv.m3u8
 https://59ef7ad665d1d.streamlock.net:1443/julieitalia/_definst_/julieitalia/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IFPpG7X.png" group-title="",La Tr3
 https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="La7 IT" tvg-name="La7 IT" tvg-logo="https://yt3.ggpht.com/-hYWT0MBszjE/AAAAAAAAAAI/AAAAAAAAAAA/Xbg1WDitHBI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="",La7
-http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lactv.it/wp-content/uploads/2017/12/lactv-new-2.png" group-title="",LaC TV
 http://StreamCdnC3.mainstreaming.tv:80/cdn/live/100197/SOrBDPy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fLuxaEb.jpg" group-title="",Medjugorje Italia TV
