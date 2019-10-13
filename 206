@@ -137,10 +137,6 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662093/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ia7iULa.png" group-title="",Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="",Otto FM TV
-http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ottofm.com/wp-content/uploads/2017/07/01anni80.png" group-title="",Otto FM TV
-http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/78/Tele_Radio_Padre_Pio.png" group-title="",Padre Pio TV
 https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OKhpyWr.png" group-title="",Paradise TV
