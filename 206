@@ -31,31 +31,29 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
 #EXTINF:-1 tvg-id="Rai YoYo IT" tvg-name="Rai YoYo IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/1200px-Rai_Yoyo_-_Logo_2017.svg.png" group-title="",Rai YoYo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png" group-title="",ReggioTV
+#EXTINF:-1 tvg-id="" tvg-name="ReggioTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png" group-title="",ReggioTV
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telecalabria.it/logoRTCnew.jpg" group-title="",RTC Telecalabria
+#EXTINF:-1 tvg-id="" tvg-name="RTC Telecalabria" tvg-logo="http://www.telecalabria.it/logoRTCnew.jpg" group-title="",RTC Telecalabria
 http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IZtIFM2.png" group-title="",RTC Telecalabria
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Alto Adige TV
+#EXTINF:-1 tvg-id="" tvg-name="Alto Adige TV" tvg-logo="" group-title="",Alto Adige TV
 http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2kNV88y.png" group-title="",Antenna Sud
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Sud" tvg-logo="https://i.imgur.com/2kNV88y.png" group-title="",Antenna Sud
 http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Antenna Tre
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Tre" tvg-logo="" group-title="News",Antenna Tre
 http://wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Video Calabria
+#EXTINF:-1 tvg-id="" tvg-name="Video Calabria" tvg-logo="" group-title="",Video Calabria
 http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 #EXTINF:-1 tvg-id="TG Norba24 IT" tvg-name="TG Norba24 IT" tvg-logo="" group-title="News",TG Norba24
 http://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJVnvuI.png" group-title="",ALICE
+#EXTINF:-1 tvg-id="" tvg-name=ALICE"" tvg-logo="https://i.imgur.com/UJVnvuI.png" group-title="",ALICE
 https://stream.next-sys.it:8443/live/alice/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png" group-title="",Azzurra TV
+#EXTINF:-1 tvg-id="" tvg-name="Azzurra TV" tvg-logo="http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png" group-title="",Azzurra TV
 https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="La7 IT" tvg-name="La7 IT" tvg-logo="https://yt3.ggpht.com/-hYWT0MBszjE/AAAAAAAAAAI/AAAAAAAAAAA/Xbg1WDitHBI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="",La7
-http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png" group-title="",CafèTV24
+#EXTINF:-1 tvg-id="" tvg-name="CafèTV24" tvg-logo="http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png" group-title="",CafèTV24
 http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canale 10
+#EXTINF:-1 tvg-id="" tvg-name="Canale 10" tvg-logo="" group-title="",Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
