@@ -57,10 +57,8 @@ https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?fluxustv.m3u8
 http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canale 10" tvg-logo="" group-title="",Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canale 10
+#EXTINF:-1 tvg-id="" tvg-name=Canale 10" tvg-logo="" group-title="",Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canaledieci.it/wp-content/themes/Divi/images/logo.png" group-title="",Canale 10
-http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canale 2 Altamura" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="",Canale 2 Altamura
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canale 7" tvg-logo="" group-title="",Canale 7
