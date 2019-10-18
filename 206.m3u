@@ -1,6 +1,6 @@
+#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz"
 #EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/200px-Rai_1_-_Logo_2016.svg.png" group-title="",Rai 1
 http://ott-cdn.ucom.am/s29/index.m3u8
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz"
 #EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="",Rai 1
 http://92.43.140.249/s29/04.m3u8
 #EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/200px-Rai_1_-_Logo_2016.svg.png" group-title="",Rai 1
