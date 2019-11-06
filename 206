@@ -129,8 +129,6 @@ http://94.23.67.20:1935/medjugorjeitaliatv/medjugorjeitaliatv/chunklist.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="Nove IT" tvg-name="Nove IT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/K2_new_logo.svg/150px-K2_new_logo.svg.png" group-title="",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ora TV" tvg-logo="https://i.imgur.com/mB1tcQM.png" group-title="",Ora TV
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@662093/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ia7iULa.png" group-title="",Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/78/Tele_Radio_Padre_Pio.png" group-title="",Padre Pio TV
