@@ -153,8 +153,6 @@ http://live-fs.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/inde
 http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=Rei Tv"" tvg-logo="https://i.imgur.com/EiIygb1.png" group-title="",Rei Tv
 https://ad.mysisli.com/live/ReiTv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rete Oro" tvg-logo="https://i.imgur.com/vClKdtx.png" group-title="",Rete Oro
-https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vvVgZN2.png" group-title="",Retesole Lazio
 http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kEje57b.png" group-title="",Reteveneta
