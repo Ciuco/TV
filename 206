@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz"
 #EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rainews24.png" group-title="News",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/200px-Rai_1_-_Logo_2016.svg.png" group-title="",Rai 1
-http://ott-cdn.ucom.am/s29/index.m3u8
 #EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Rai_3.png" group-title="",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 tvg-id="Rai 4 IT" tvg-name="Rai 4 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Rai4.png" group-title="",Rai 4
@@ -271,10 +269,6 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxust
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" group-title="News",Rai News 24
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
-#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="",Rai 1
-http://92.43.140.249/s29/04.m3u8
-#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/200px-Rai_1_-_Logo_2016.svg.png" group-title="",Rai 1
-http://ott-cdn.ucom.am/s29/04.m3u8
 #EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Rai3.png" group-title="",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai 4 IT" tvg-name="Rai 4 IT" tvg-logo="https://i.imgur.com/U2TCH5e.png" group-title="",Rai 4
