@@ -29,10 +29,6 @@ https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8?fluxustv.m
 http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ReggioTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png" group-title="",ReggioTV
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/0e/LOGO_canale21.png" group-title="",Canale 21 Campania
-http://live.sloode.com:1935/canale21/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/0e/LOGO_canale21.png" group-title="",Canale 21 Lazio
-http://live.sloode.com:1935/canale21/live2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alto Adige TV" tvg-logo="" group-title="",Alto Adige TV
 http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antenna Tre" tvg-logo="" group-title="News",Antenna Tre
