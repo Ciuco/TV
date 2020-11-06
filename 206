@@ -3,8 +3,8 @@
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Rai_3.png" group-title="",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LaC NEWS 24" tvg-logo="https://www.lactv.it/wp-content/uploads/2017/12/lactv-new-2.png" group-title="",LaC TV
-http://StreamCdnC3.mainstreaming.tv:80/cdn/live/100197/SOrBDPy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LaC NEWS 24" tvg-logo="https://m.lacnews24.it/img/lacnews24_logo_n.png" group-title="News",LaC NEWS 24
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100532/HVvPMzy/playlist.m3u8
 #EXTINF:-1 tvg-id="TG Norba24 IT" tvg-name="TG Norba24 IT" tvg-logo="" group-title="News",TG Norba24
 http://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="" group-title="",TV2000
