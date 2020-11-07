@@ -23,8 +23,8 @@ http://stream.ets-sistemi.it:1935/live.rvm/rvmtv/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alto Adige TV" tvg-logo="http://www.altoadigetv.it/images/resource/logo-alto-adige.png" group-title="",Alto Adige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antenna Tre" tvg-logo="" group-title="News",Antenna Tre
-http://wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Tre" tvg-logo="https://antennatre.medianordest.it/wp-content/uploads/2020/10/A3Logo120.png" group-title="News",Antenna Tre
+https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Z5NeYwu.png" group-title="",Videolina  (Sardegna)
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png" group-title="",Sardegna Uno
