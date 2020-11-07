@@ -13,7 +13,7 @@ http://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
 http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antenna Sud" tvg-logo="https://i.imgur.com/2kNV88y.png" group-title="",Antenna Sud
 https://streamlive13.arcapuglia.it:8080/live/antennasud/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Video Calabria" tvg-logo="" group-title="",Video Calabria
+#EXTINF:-1 tvg-id="" tvg-name="Video Calabria" tvg-logo="https://www.videocalabria.tv/wp-content/uploads/2015/07/logo-videoc1.png" group-title="",Video Calabria
 https://59d8c0cee6f3d.streamlock.net/videocalabria/videocalabria/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IZtIFM2.png" group-title="",RTC Telecalabria
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8?fluxustv.m3u8
