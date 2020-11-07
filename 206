@@ -39,7 +39,7 @@ http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
 http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xnXdUjz.png" group-title="",TSD TV Arezzo
 https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSN Tele Sondrio News" tvg-logo="" group-title="",TSN Tele Sondrio News
+#EXTINF:-1 tvg-id="" tvg-name="TSN Tele Sondrio News" tvg-logo="https://www.radiotsn.tv/sites/default/files/logo_1_1.png" group-title="",TSN Tele Sondrio News
 http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/m0EffED.png" group-title="",TV Campane 1 (Napoli)
 http://tvcampane1.srfms.com:1935/tvcampane1/livestream/playlist.m3u8?fluxustv.m3u8
