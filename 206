@@ -4,7 +4,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m
 #EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Rai_3.png" group-title="",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 tvg-id="LaC NEWS 24" tvg-name="LaC NEWS 24" tvg-logo="https://m.lacnews24.it/img/lacnews24_logo_n.png" group-title="News",LaC NEWS 24
-https://streamcdnb2-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100532/HVvPMzy/playlist.m3u8
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100532/HVvPMzy/playlist.m3u8
 #EXTINF:-1 tvg-id="LaC TV" tvg-name="LaC TV" tvg-logo="https://www.lactv.it/wp-content/uploads/2017/12/lactv-new-2.png" group-title="",LaC TV
 https://streamcdnb9-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/260px-Logo_tv2000_2015.svg.png" group-title="",TV2000
