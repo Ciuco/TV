@@ -6,7 +6,7 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 tvg-id="LaC NEWS 24" tvg-name="LaC NEWS 24" tvg-logo="https://m.lacnews24.it/img/lacnews24_logo_n.png" group-title="News",LaC NEWS 24
 https://streamcdnb2-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100532/HVvPMzy/playlist.m3u8
 #EXTINF:-1 tvg-id="LaC TV" tvg-name="LaC TV" tvg-logo="https://www.lactv.it/wp-content/uploads/2017/12/lactv-new-2.png" group-title="",LaC TV
-https://streamcdnb7-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8
+https://streamcdnb9-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/260px-Logo_tv2000_2015.svg.png" group-title="",TV2000
 http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antenna Sud" tvg-logo="https://i.imgur.com/2kNV88y.png" group-title="",Antenna Sud
