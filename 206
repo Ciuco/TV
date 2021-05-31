@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz"
 #EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/200px-Rai_News_24_-_Logo_2013.svg.png" group-title="News",Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+https://streamcdnb3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8?baseuri=%2Frainews1%2Fhls%2F&tstart=0&tend=1622446595&tof=86400&tk2=2984066837f7344c65a092cb158dc1ba70b49446f2042a3aad40d714cc119bf0
 #EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Rai_3.png" group-title="",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 tvg-id="LaC NEWS 24" tvg-name="LaC NEWS 24" tvg-logo="https://m.lacnews24.it/img/lacnews24_logo_n.png" group-title="News",LaC NEWS 24
