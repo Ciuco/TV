@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz"
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super" tvg-country="IT" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Super%21_logo_2021.svg" group-title="",Super (480p) [Not 24/7]
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/200px-Rai_News_24_-_Logo_2013.svg.png" group-title="News",Rai News 24
 https://streamcdnb3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8?baseuri=%2Frainews1%2Fhls%2F&tstart=0&tend=1622446595&tof=86400&tk2=2984066837f7344c65a092cb158dc1ba70b49446f2042a3aad40d714cc119bf0
 #EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Rai_3.png" group-title="",Rai 3
