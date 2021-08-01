@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz"
-#EXTINF:-1 tvg-id="Super.it" tvg-name="Super" tvg-country="IT" tvg-language="" tvg-logo="https://logos.fandom.com/wiki/Super!?file=Super%2521_%25282021%2529.svg" group-title="",Super (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super" tvg-country="IT" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Super%21_%282021%29.svg/revision/latest/scale-to-width-down/512?cb=20210607142232" group-title="",Super
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/200px-Rai_News_24_-_Logo_2013.svg.png" group-title="News",Rai News 24
 https://streamcdnb3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8?baseuri=%2Frainews1%2Fhls%2F&tstart=0&tend=1622446595&tof=86400&tk2=2984066837f7344c65a092cb158dc1ba70b49446f2042a3aad40d714cc119bf0
@@ -33,6 +33,10 @@ https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8?fluxu
 http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRG Umbria" tvg-logo="https://i.imgur.com/32xXpaS.png" group-title="",TRG Umbria
 http://46.37.22.120:8140/hls/livestreamHD.m3u8?637598654378501702
+#EXTINF:-1 tvg-id="SuperTV" tvg-name="Super TV" tvg-logo="https://www.bresciasat.it/assets/front/img/logo3.png" group-title="",Super TV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 tvg-id="SuperTV.it" tvg-name="Super TV" tvg-country="IT" tvg-language="Italian" tvg-logo="https://www.bresciasat.it/assets/front/img/logo3.png" group-title="",Super TV Brescia 
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Azzurra TV" tvg-logo="http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png" group-title="",Azzurra TV
 https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CafèTV24" tvg-logo="http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png" group-title="",CafèTV24
@@ -167,8 +171,6 @@ https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.
 http://wms.shared.streamshow.it/studio100ta/studio100ta/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Studio 100
 http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
-#EXTINF:-1 tvg-id="Super IT" tvg-name="Super IT" tvg-logo="" group-title="",Super
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/H3uItqg.png" group-title="",Super J TV
 https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YBdq3Y2.png" group-title="",Tele 8
