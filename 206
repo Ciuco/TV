@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz"
 #EXTINF:-1 tvg-id="Super.it" tvg-name="Super" tvg-country="IT" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Super%21_%282021%29.svg/revision/latest/scale-to-width-down/512?cb=20210607142232" group-title="",Super
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Lab" tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" group-title="History",History Lab
+https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
 #EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/200px-Rai_News_24_-_Logo_2013.svg.png" group-title="News",Rai News 24
 https://streamcdnb3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8?baseuri=%2Frainews1%2Fhls%2F&tstart=0&tend=1622446595&tof=86400&tk2=2984066837f7344c65a092cb158dc1ba70b49446f2042a3aad40d714cc119bf0
 #EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Rai_3.png" group-title="",Rai 3
@@ -97,8 +99,6 @@ http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8Nba42X.png" group-title="",Gold TV Roma
 http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History Lab" tvg-logo="" group-title="History",History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png" group-title="History",History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
 #EXTINF:-1 tvg-id="TG Norba24 IT" tvg-name="TG Norba24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tg_norba24.png/300px-Tg_norba24.png" group-title="News",TG Norba24
