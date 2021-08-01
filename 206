@@ -1,4 +1,29 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz"
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/Italia1.png" group-title="",Italia 1
+https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" tvg-country="IT" tvg-language="" tvg-logo="https://easysite.one/img/Italia2.png" group-title="",Italia 2
+https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/Rete4.png" group-title="",Rete 4
+https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/Canale5.png" group-title="",Canale 5
+https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/20.png" group-title="",20 Mediaset
+https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/Topcrime.png" group-title="",Top Crime
+https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/Iris.png" group-title="",Iris
+https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTINF:-1 tvg-id="La5.it" tvg-name="La 5" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/La5.png" group-title="",La 5
+https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/MediasetExtra.png" group-title="",Mediaset Extra
+https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/Focus.png" group-title="",Focus
+https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-country="IT" tvg-language="" tvg-logo="https://www.easysite.one/img/Boing.png" group-title="",Boing
+https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-country="IT" tvg-language="" tvg-logo="https://www.easysite.one/img/Cartoonito.png" group-title="",Cartoonito
+https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+
 #EXTINF:-1 tvg-id="Super.it" tvg-name="Super" tvg-country="IT" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Super%21_%282021%29.svg/revision/latest/scale-to-width-down/512?cb=20210607142232" group-title="",Super
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History Lab" tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" group-title="History",History Lab
