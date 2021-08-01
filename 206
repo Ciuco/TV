@@ -13,7 +13,7 @@ https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(lb)/index
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/Iris.png" group-title="",Iris
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
-#EXTINF:-1 tvg-id="La5.it" tvg-name="La5" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/La5.png" group-title="",La 5
+#EXTINF:-1 tvg-id="La5.it" tvg-name="La 5" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/La5.png" group-title="",La 5
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/MediasetExtra.png" group-title="",Mediaset Extra
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
