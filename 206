@@ -32,7 +32,7 @@ https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(fu)/index
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-country="IT" tvg-language="" tvg-logo="https://www.easysite.one/img/Cartoonito.png" group-title="",Cartoonito
-https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(la)/stream06/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="Super.it" tvg-name="Super" tvg-country="IT" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Super%21_%282021%29.svg/revision/latest/scale-to-width-down/512?cb=20210607142232" group-title="",Super
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
