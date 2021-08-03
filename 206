@@ -1,4 +1,4 @@
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream=inputstream.ffmpegdirect
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/Italia1.png" group-title="",Italia 1
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 
