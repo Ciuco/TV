@@ -25,9 +25,6 @@ http://stream.tvtap.live:8081/live/it-rai2.stream/playlist.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Rai_3.png" group-title="",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 
-#EXTINF:-1 tvg-id="Rai 4 IT" tvg-name="Rai 4 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Rai4.png" group-title="",Rai 4
-http://stream.tvtap.live:8081/live/it-rai4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMTowNzowMCBBTSZoYXNoX3ZhbHVlPXVBNWFxWEpOa2QxbDNhc0x0ZmlCZGc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
 #EXTINF:-1 tvg-id="Rai 5 IT" tvg-name="Rai 5 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Rai5.png" group-title="",Rai 5
 http://stream.tvtap.live:8081/live/it-rai5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMTowNjowMCBBTSZoYXNoX3ZhbHVlPUEyai94WFUyeGFvdml2eU4wN3MxNkE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
