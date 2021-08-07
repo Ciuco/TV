@@ -19,7 +19,7 @@ http://stream.tvtap.live:8081/live/it-focus.stream/playlist.m3u8?wmsAuthSign=c2V
 #EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/200px-Rai_1_-_Logo_2016.svg.png" group-title="",Rai 1
 http://livespecial.hjkm.info:11991/iroh/rai1it/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMTI6NTc6MjUgQU0maGFzaF92YWx1ZT1Ub0dYY2IyVG42bXUyS01CSkVPSjRRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="Rai 2 IT" tvg-name="Rai 3 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png" group-title="",Rai 2
+#EXTINF:-1 tvg-id="Rai 2 IT" tvg-name="Rai 2 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png" group-title="",Rai 2
 http://stream.tvtap.live:8081/live/it-rai2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMTowMDowNiBBTSZoYXNoX3ZhbHVlPXlaSXJrZG5aQWRyMTJVVGoyY2Fkc2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 #EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Rai_3.png" group-title="",Rai 3
