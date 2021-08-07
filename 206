@@ -1,50 +1,11 @@
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/Italia1.png" group-title="",Italia 1
-http://stream.tvtap.live:8081/live/it-italia1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjEgMzoxNzo0MCBQTSZoYXNoX3ZhbHVlPXB6WlcvTTlhWWxkcXNYTm9ObG1RaGc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" tvg-country="IT" tvg-language="" tvg-logo="https://easysite.one/img/Italia2.png" group-title="",Italia 2
-http://stream.tvtap.live:8081/live/it-mediaset2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMTI6NDU6NTQgQU0maGFzaF92YWx1ZT1keW9WMkt0TEJ5OEpHUWFEbEYzcDl3PT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/Rete4.png" group-title="",Rete 4
-http://stream.tvtap.live:8081/live/it-rete4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMToxNTowOCBBTSZoYXNoX3ZhbHVlPVkxOVN2UUtMU1lPZGVDSG9XVFFRcHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/Canale5.png" group-title="",Canale 5
-http://stream.tvtap.live:8081/live/it-canale5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMTI6Mzk6MjcgQU0maGFzaF92YWx1ZT0wTFVzcGcrU0VzYVhZalRGWm9CS2NBPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/MediasetExtra.png" group-title="",Mediaset Extra
-http://stream.tvtap.live:8081/live/it-mediasetextra.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMTI6NDc6MDcgQU0maGFzaF92YWx1ZT1SUWxWYlpxdk5FV1N0R1NVSDlKTEtnPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-country="IT" tvg-language="Italian" tvg-logo="https://easysite.one/img/Focus.png" group-title="",Focus
-http://stream.tvtap.live:8081/live/it-focus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMTI6NDg6MDcgQU0maGFzaF92YWx1ZT1sSHBWbWZZRC9zc1ZyMVFSNVVRTFNnPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/200px-Rai_1_-_Logo_2016.svg.png" group-title="",Rai 1
-http://stream.tvtap.live:8081/live/it-rai1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMTozNzoxMyBBTSZoYXNoX3ZhbHVlPUUwKys2b0lxcFh0OG9leE52R21FN3c9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1 tvg-id="Rai 2 IT" tvg-name="Rai 2 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png" group-title="",Rai 2
-http://stream.tvtap.live:8081/live/it-rai2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMTowMDowNiBBTSZoYXNoX3ZhbHVlPXlaSXJrZG5aQWRyMTJVVGoyY2Fkc2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Rai_3.png" group-title="",Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-
-#EXTINF:-1 tvg-id="Rai 5 IT" tvg-name="Rai 5 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Rai5.png" group-title="",Rai 5
-http://stream.tvtap.live:8081/live/it-rai5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMTowNjowMCBBTSZoYXNoX3ZhbHVlPUEyai94WFUyeGFvdml2eU4wN3MxNkE9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1 tvg-id="Rai Movie IT" tvg-name="Rai Movie IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Raimovie.png" group-title="Movies",Rai Movie
-http://stream.tvtap.live:8081/live/it-raimovie.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMTowOToyNiBBTSZoYXNoX3ZhbHVlPStwWkRZUTlocXExeXNKaXlsWWZyamc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1 tvg-id="Rai Premium IT" tvg-name="Rai Premium IT" tvg-logo="https://i.imgur.com/s5CnlRh.jpg" group-title="Movies",Rai Premium
-http://stream.tvtap.live:8081/live/it-raipremium.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMToxMjo0NSBBTSZoYXNoX3ZhbHVlPUNuU2hXbkpJSENHaUhFM0lNaTIrWUE9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="Sport",Rai Sport
-http://stream.tvtap.live:8081/live/it-raisportplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjEgMToxNDowNyBBTSZoYXNoX3ZhbHVlPTg5amtDVzFWb1pTQU16cWlNNkFmSnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-
-
-
 #EXTINF:-1 tvg-id="Super.it" tvg-name="Super" tvg-country="IT" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Super%21_%282021%29.svg/revision/latest/scale-to-width-down/512?cb=20210607142232" group-title="Kids",Super
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HistoryLab.it" tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" group-title="History",History Lab
-https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
+#EXTINF:-1 tvg-id="CalabriaUno News.it" tvg-name="CalabriaUno News" tvg-country="IT" tvg-language="Italian" tvg-logo="https://calabriauno.news/wp-content/uploads/2021/06/tasto-300x44.png" group-title="",CalabriaUno News
+https://calabriauno.interact.it/live/diretta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CalabriaUno.it" tvg-name="CalabriaUno" tvg-country="IT" tvg-language="" tvg-logo="https://calabriauno.news/wp-content/uploads/2021/03/cropped-calabriauno-logo-video-1.png" group-title="",CalabriaUno
+https://5f22d76e220e1.streamlock.net/calabriaunotv/calabriaunotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TG Norba24 IT" tvg-name="TG Norba24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png" group-title="News",TG Norba24
 https://flash2.xdevel.com/tgnorba_24/tgnorba_24_source.stream/manifest.mpd
@@ -87,6 +48,9 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sardegna Uno IT" tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png" group-title="",Sardegna Uno
 https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HistoryLab.it" tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" group-title="History",History Lab
+https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Videostar TV IT" tvg-logo="http://paologoglio.com/wp-content/uploads/2013/12/logo_videostarTV.jpg" group-title="",Videostar TV 
 http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
