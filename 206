@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-id="Super.it" tvg-name="Super" tvg-country="IT" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Super%21_%282021%29.svg/revision/latest/scale-to-width-down/512?cb=20210607142232" group-title="Kids",Super
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 
+#EXTINF:-1 tvg-name="Abc Tv" tvg-logo="https://i.imgur.com/nVmIeTD.png" group-title="Italy",Abc Tv
+https://streamlive.arcapuglia.it:8080/live/abctv/index.m3u8
+
 #EXTINF:-1 tvg-id="CalabriaUno News.it" tvg-name="CalabriaUno News" tvg-country="IT" tvg-language="Italian" tvg-logo="https://calabriauno.news/wp-content/uploads/2021/06/tasto-300x44.png" group-title="",CalabriaUno News
 https://calabriauno.interact.it/live/diretta/playlist.m3u8
 
