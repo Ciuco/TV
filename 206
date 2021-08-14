@@ -292,18 +292,19 @@ http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxustv.m3u8
 
-
+#EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rainews24.png" group-title="News",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia HD" tvg-country="IT" tvg-language="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/sportblu.png" group-title="Sport",Sportitalia HD 
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/sihd_720p/playlist.m3u8
+https://di-j5ubq4zi.vo.lswcdn.net/sportitalia/sihd_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportitalilive24.it" tvg-name="Sportitalia Live 24 HD" tvg-country="IT" tvg-language="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/sortiarancio.png" group-title="Sport",Sportitalia Live 24 HD 
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+https://di-j5ubq4zi.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportitaliamotori.it" tvg-name="Sportitalia Motori HD" tvg-country="IT" tvg-language="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/sportrosso.png" group-title="Sport",Sportitalia Motori HD 
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
+https://di-j5ubq4zi.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportitaliasolocalcio.it" tvg-name="Sportitalia Solocalcio HD" tvg-country="IT" tvg-language="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/solocalcio.png" group-title="Sport",Sportitalia Solocalcio HD 
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
+https://di-j5ubq4zi.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
