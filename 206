@@ -1,17 +1,17 @@
 #EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" group-title="News",Rai News 24
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
 
+#EXTINF:-1 tvg-id="lacnews24.it" tvg-name="LaC NEWS 24" tvg-logo="https://m.lacnews24.it/img/lacnews24_logo_n.png" group-title="News",LaC NEWS 24
+https://streamcdnb9-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100532/HVvPMzy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lactv.it" tvg-name="LaC TV" tvg-logo="https://www.lactv.it/wp-content/uploads/2017/12/lactv-new-2.png" group-title="",LaC TV
+https://streamcdnb9-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Super.it" tvg-name="Super" tvg-country="IT" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Super%21_%282021%29.svg/revision/latest/scale-to-width-down/512?cb=20210607142232" group-title="Kids",Super
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 
 #EXTINF:-1 tvg-id="Abc Tv it" tvg-name="Abc Tv" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/nVmIeTD.png" group-title="Italy",Abc Tv
 https://streamlive.arcapuglia.it:8080/live/abctv/index.m3u8
-
-#EXTINF:-1 tvg-id="CalabriaUno News.it" tvg-name="CalabriaUno News" tvg-country="IT" tvg-language="Italian" tvg-logo="https://calabriauno.news/wp-content/uploads/2021/06/tasto-300x44.png" group-title="",CalabriaUno News
-https://calabriauno.interact.it/live/diretta/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CalabriaUno.it" tvg-name="CalabriaUno" tvg-country="IT" tvg-language="" tvg-logo="https://calabriauno.news/wp-content/uploads/2021/03/cropped-calabriauno-logo-video-1.png" group-title="",CalabriaUno
-https://5f22d76e220e1.streamlock.net/calabriaunotv/calabriaunotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TG Norba24 IT" tvg-name="TG Norba24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png" group-title="News",TG Norba24
 https://flash2.xdevel.com/tgnorba_24/tgnorba_24_source.stream/manifest.mpd
@@ -19,14 +19,14 @@ https://flash2.xdevel.com/tgnorba_24/tgnorba_24_source.stream/manifest.mpd
 #EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Rai_3.png" group-title="",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 
-#EXTINF:-1 tvg-id="lacnews24.it" tvg-name="LaC NEWS 24" tvg-logo="https://m.lacnews24.it/img/lacnews24_logo_n.png" group-title="News",LaC NEWS 24
-https://streamcdnb9-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100532/HVvPMzy/playlist.m3u8
-
-#EXTINF:-1 tvg-id="lactv.it" tvg-name="LaC TV" tvg-logo="https://www.lactv.it/wp-content/uploads/2017/12/lactv-new-2.png" group-title="",LaC TV
-https://streamcdnb9-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/260px-Logo_tv2000_2015.svg.png" group-title="",TV2000
 http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+
+#EXTINF:-1 tvg-id="CalabriaUno News.it" tvg-name="CalabriaUno News" tvg-country="IT" tvg-language="Italian" tvg-logo="https://calabriauno.news/wp-content/uploads/2021/06/tasto-300x44.png" group-title="",CalabriaUno News
+https://calabriauno.interact.it/live/diretta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CalabriaUno.it" tvg-name="CalabriaUno" tvg-country="IT" tvg-language="" tvg-logo="https://calabriauno.news/wp-content/uploads/2021/03/cropped-calabriauno-logo-video-1.png" group-title="",CalabriaUno
+https://5f22d76e220e1.streamlock.net/calabriaunotv/calabriaunotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Antenna Sud IT" tvg-logo="https://i.imgur.com/2kNV88y.png" group-title="",Antenna Sud
 https://streamlive13.arcapuglia.it:8080/live/antennasud/index.m3u8
