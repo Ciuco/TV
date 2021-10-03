@@ -13,11 +13,11 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1 tvg-id="Abc Tv it" tvg-name="Abc Tv" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/nVmIeTD.png" group-title="Italy",Abc Tv
 https://streamlive.arcapuglia.it:8080/live/abctv/index.m3u8
 
-#EXTINF:-1 tvg-id="TG Norba24 IT" tvg-name="TG Norba24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png" group-title="News",TG Norba24
-https://flash2.xdevel.com/tgnorba_24/tgnorba_24_source.stream/manifest.mpd
-
 #EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Rai_3.png" group-title="",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+
+#EXTINF:-1 tvg-id="TG Norba24 IT" tvg-name="TG Norba24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png" group-title="News",TG Norba24
+https://flash2.xdevel.com/tgnorba_24/tgnorba_24_source.stream/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/260px-Logo_tv2000_2015.svg.png" group-title="",TV2000
 http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
