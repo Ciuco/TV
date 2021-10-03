@@ -40,9 +40,6 @@ https://streamlive13.arcapuglia.it:8080/live/antennasud/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 85 IT" tvg-logo="https://www.antennasud.com/as/wp-content/uploads/2020/12/quadrati_loghi_85.png" group-title="",Antenna Sud 85
 https://streamlive85.arcapuglia.it:8080/live/canale85/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 90 IT" tvg-logo="https://www.antennasud.com/as/wp-content/uploads/2020/12/TASTO-STREAMING-SITO-ANTENNA-SUD-90.png" group-title="",Antenna Sud 90
-https://streamlivesud.arcapuglia.it:8080/live/teleonda/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Video Calabria IT" tvg-logo="https://www.videocalabria.tv/wp-content/uploads/2015/07/logo-videoc1.png" group-title="",Video Calabria
 https://59d8c0cee6f3d.streamlock.net/videocalabria/videocalabria/playlist.m3u8
 
