@@ -296,18 +296,20 @@ http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia HD" tvg-country="IT" tvg-language="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/sportblu.png" group-title="Sport",Sportitalia HD 
-https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sportitalilive24.it" tvg-name="Sportitalia Live 24 HD" tvg-country="IT" tvg-language="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/sortiarancio.png" group-title="Sport",Sportitalia Live 24 HD 
-https://di-l1o0e8cu.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Sportitaliamotori.it" tvg-name="Sportitalia Motori HD" tvg-country="IT" tvg-language="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/sportrosso.png" group-title="Sport",Sportitalia Motori HD 
 https://di-l1o0e8cu.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportitaliasolocalcio.it" tvg-name="Sportitalia Solocalcio HD" tvg-country="IT" tvg-language="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/solocalcio.png" group-title="Sport",Sportitalia Solocalcio HD 
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia HD" tvg-country="IT" tvg-language="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/sportblu.png" group-title="Sport",Sportitalia HD 
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sportitalilive24.it" tvg-name="Sportitalia Live 24 HD" tvg-country="IT" tvg-language="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/sortiarancio.png" group-title="Sport",Sportitalia Live 24 HD 
+https://di-l1o0e8cu.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 
 
 
