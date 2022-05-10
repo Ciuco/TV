@@ -217,8 +217,6 @@ https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q7Gj1rG.jpg" group-title="",TeleMonteve
 http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TeleMonteve 3
-http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Woq6TJo.png" group-title="",TeleNordest
 https://59d8c0cee6f3d.streamlock.net/telenord/telenord/playlist.m3u8
