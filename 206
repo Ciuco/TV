@@ -25,17 +25,17 @@ https://flash2.xdevel.com/tgnorba_24/tgnorba_24_source.stream/manifest.mpd
 #EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/260px-Logo_tv2000_2015.svg.png" group-title="",TV2000
 http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="",VH1
+#EXTINF:-1 tvg-id="VH1 IT" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="CalabriaUno.it" tvg-name="CalabriaUno" tvg-country="IT" tvg-language="" tvg-logo="https://calabriauno.news/wp-content/uploads/2021/03/cropped-calabriauno-logo-video-1.png" group-title="",CalabriaUno
 https://calabriauno.interact.it/live/diretta/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 13 IT" tvg-logo="https://www.antennasud.com/as/wp-content/uploads/2020/12/quadrati_loghi_13.png" group-title="",Antenna Sud 13
-https://streamlive13.arcapuglia.it:8080/live/antennasud/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 14 IT" tvg-logo="https://www.antennasud.com/wp-content/uploads/2022/04/quadrati_loghi_14.png" group-title="",Antenna Sud 14
+https://live.cloudprive.cloud/tmp_hls/live/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 85 IT" tvg-logo="https://www.antennasud.com/as/wp-content/uploads/2020/12/quadrati_loghi_85.png" group-title="",Antenna Sud 85
-https://streamlive85.arcapuglia.it:8080/live/canale85/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 92 Extra" tvg-logo="https://www.antennasud.com/wp-content/uploads/2022/04/quadrati_loghi_92.png" group-title="",Antenna Sud 92 Extra
+https://streamlive92.arcapuglia.it:8080/live/antennasud92/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Video Calabria IT" tvg-logo="https://www.videocalabria.tv/wp-content/uploads/2015/07/logo-videoc1.png" group-title="",Video Calabria
 https://59d8c0cee6f3d.streamlock.net/videocalabria/videocalabria/playlist.m3u8
