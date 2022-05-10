@@ -38,11 +38,7 @@ https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/pl
 #EXTINF:-1 tvg-id="" tvg-name="Videolina IT" tvg-logo="https://i.imgur.com/Z5NeYwu.png" group-title="",Videolina
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Campane 1 IT" tvg-logo="https://www.tvcampane.it/index_htm_files/291.jpg" group-title="",TV Campane 1 (Napoli)
-https://eu1.servers10.com:8081/8032/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Campane 2 IT" tvg-logo="https://www.tvcampane.it/index_htm_files/299.jpg" group-title="",TV Campane 2 (Napoli)
-https://eu1.servers10.com:8081/8024/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tele One" tvg-logo="https://i.imgur.com/flg9vfT.png" group-title="",Tele One
 https://5cbd3bc28341f.streamlock.net:444/mediaone_live/teleone/playlist.m3u8
@@ -61,6 +57,12 @@ https://streamlive92.arcapuglia.it:8080/live/antennasud92/index.m3u8
 
 #EXTINF:-1 tvg-id="VH1 IT" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Campane 1 IT" tvg-logo="https://www.tvcampane.it/index_htm_files/291.jpg" group-title="",TV Campane 1 (Napoli)
+https://eu1.servers10.com:8081/8032/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Campane 2 IT" tvg-logo="https://www.tvcampane.it/index_htm_files/299.jpg" group-title="",TV Campane 2 (Napoli)
+https://eu1.servers10.com:8081/8024/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Sardegna Uno IT" tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png" group-title="",Sardegna Uno
