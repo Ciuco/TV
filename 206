@@ -37,8 +37,7 @@ https://live.cloudprive.cloud/tmp_hls/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 92 Extra" tvg-logo="https://www.antennasud.com/wp-content/uploads/2022/04/quadrati_loghi_92.png" group-title="",Antenna Sud 92 Extra
 https://streamlive92.arcapuglia.it:8080/live/antennasud92/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Video Calabria IT" tvg-logo="https://www.videocalabria.tv/wp-content/uploads/2015/07/logo-videoc1.png" group-title="",Video Calabria
-https://59d8c0cee6f3d.streamlock.net/videocalabria/videocalabria/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="RTC Telecalabria IT" tvg-logo="https://i.imgur.com/IZtIFM2.png" group-title="",RTC Telecalabria
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8?fluxustv.m3u8
@@ -174,6 +173,9 @@ https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Pk5flAT.png" group-title="",RMK TV Sciacca
 http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Video Calabria IT" tvg-logo="https://www.videocalabria.tv/wp-content/uploads/2015/07/logo-videoc1.png" group-title="",Video Calabria
+https://59d8c0cee6f3d.streamlock.net/videocalabria/videocalabria/playlist.m3u8
 
 
 
