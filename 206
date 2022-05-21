@@ -47,7 +47,7 @@ https://5cbd3bc28341f.streamlock.net:444/mediaone_live/teleone/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 14 IT" tvg-logo="https://www.antennasud.com/wp-content/uploads/2022/04/quadrati_loghi_14.png" group-title="",Antenna Sud 14
-https://live.cloudprive.cloud/tmp_hls/live/index.m3u8
+https://streamlive14.arcapuglia.it:8080/live/antennasud/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 92 Extra" tvg-logo="https://www.antennasud.com/wp-content/uploads/2022/04/quadrati_loghi_92.png" group-title="",Antenna Sud 92 Extra
 https://streamlive92.arcapuglia.it:8080/live/antennasud92/index.m3u8
@@ -66,14 +66,14 @@ https://eu1.servers10.com:8081/8024/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Sardegna Uno IT" tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png" group-title="",Sardegna Uno
-https://stream-02.sg1.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v_Xt9Dd8P98lpeV9StEik1vpEhnFaNKKGsKTdWfuwA0u)/dm/3/x893du6/d/live-2.m3u8#cell=lsg1
+https://stream-03.sg1.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v6UJCzMc5FXbPKNzVjLPMJrJ1WEE2d2D14lgzZgVPJu5)/dm/3/x893du6/d/live-2.m3u8#cell=lsg1
 
 
 #EXTINF:-1 tvg-id="TG Norba24 IT" tvg-name="TG Norba24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png" group-title="News",TG Norba24
 https://flash2.xdevel.com/tgnorba_24/tgnorba_24_source.stream/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV2000 IT" tvg-name="TV2000 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/260px-Logo_tv2000_2015.svg.png" group-title="",TV2000
-http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TRG Umbria IT" tvg-logo="https://i.imgur.com/32xXpaS.png" group-title="",TRG Umbria
