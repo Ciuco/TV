@@ -7,6 +7,7 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playli
 
 #EXTINF:-1 tvg-id="lactv.it" tvg-name="LaC TV" tvg-logo="https://www.lactv.it/wp-content/uploads/2017/12/lactv-new-2.png" group-title="",LaC TV
 https://streamcdnb9-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8
+https://streamcdne1-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Abc Tv it" tvg-name="Abc Tv" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/nVmIeTD.png" group-title="Italy",Abc Tv
@@ -66,7 +67,7 @@ https://eu1.servers10.com:8081/8024/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Sardegna Uno IT" tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png" group-title="",Sardegna Uno
-https://stream-03.sg1.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v6UJCzMc5FXbPKNzVjLPMJrJ1WEE2d2D14lgzZgVPJu5)/dm/3/x893du6/d/live-2.m3u8#cell=lsg1
+https://stream-02.sg1.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v_6mxaRDYphA0T1kDisT-4pfRsR5fWQHy6xDL5d09S9i)/dm/3/x893du6/d/live-0.m3u8#cell=lsg1
 
 
 #EXTINF:-1 tvg-id="TG Norba24 IT" tvg-name="TG Norba24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png" group-title="News",TG Norba24
