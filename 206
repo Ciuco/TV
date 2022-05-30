@@ -9,7 +9,7 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playli
 https://streamcdnb9-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Abc Tv it" tvg-name="Abc Tv" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/nVmIeTD.png" group-title="Italy",Abc Tv
+#EXTINF:-1 tvg-id="Abctv it" tvg-name="Abc Tv" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/nVmIeTD.png" group-title="Italy",Abc Tv
 https://streamlive.arcapuglia.it:8080/live/abctv/index.m3u8
 
 
