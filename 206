@@ -215,10 +215,6 @@ https://59d8c0cee6f3d.streamlock.net/telepavia/telepavia/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U1BjkEl.png" group-title="",TeleTerni
-https://diretta.teleterni.it/live/stream_src.m3u8?fluxustv.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K6tTjJC.png" group-title="",TeleTusciaSabina 2000
 http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8?fluxustv.m3u8
