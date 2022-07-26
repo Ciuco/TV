@@ -228,13 +228,6 @@ http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Sportitalilive24.it" tvg-name="Sportitalia Live 24 HD" tvg-country="IT" tvg-language="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/sortiarancio.png" group-title="Sport",Sportitalia Live 24 HD 
-https://di-l1o0e8cu.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Super.it" tvg-name="Super" tvg-country="IT" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Super%21_%282021%29.svg/revision/latest/scale-to-width-down/512?cb=20210607142232" group-title="Kids",Super
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
-
 
 #EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rainews24.png" group-title="News",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
