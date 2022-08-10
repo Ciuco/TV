@@ -25,7 +25,7 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Video Mediterraneo IT" tvg-logo="http://www.videomediterraneo.it/images/website/assets/vm-logo-official.png" group-title="",Video Mediterraneo
-http://stream.ets-sistemi.it:1935/live.rvm/rvmtv/playlist.m3u8
+https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S23348473/u5bWX5Bh1fDx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ReggioTV IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png" group-title="",ReggioTV
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8
